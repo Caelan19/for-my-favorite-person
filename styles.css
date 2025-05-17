@@ -29,7 +29,10 @@ h2 {
     margin-bottom: 40px;
 }
 
-
+.gif_container {
+    font-size: 50px;
+    border-radius: 10px;
+}
 
 .clickhere-button {
     font-family: inherit;
