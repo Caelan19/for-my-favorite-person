@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55vh;
+    margin: 0;
+    background-color: antiquewhite;
+    font-family: math;
+    flex-direction: column;
+}
+
+.container{
+    text-align: center;
+}
+
+h1 {
+    font-size: 65px;
+    color: darkred;
+    margin-top: 170px;
+    margin-bottom: 0px;
+    font-style: italic;
+}
+
+h2 {
+    margin-top: 0px;
+    font-size: 24px;
+    color: darkred;
+    font-family: fangsong;
+    margin-bottom: 40px;
+}
+
+
+
+.clickhere-button {
+    font-family: inherit;
+    font-size: 25px;
+    padding: 10px 15px;
+    background-color: antiquewhite;
+    color: darkslategrey;
+    border-radius: 35px;
+    cursor: pointer;
+}
+
+
+
